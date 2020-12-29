@@ -1,10 +1,10 @@
 {
-    "name": "jildertmiedema/laravel-plupload",
+    "name": "gor98/laravel-plupload",
     "description": "Laravel 5/Plupload - Handle large file uploads",
     "authors": [
         {
-            "name": "Jildert Miedema",
-            "email": "jildertmiedema@gmail.com"
+            "name": "Gor Azizyan",
+            "email": "azizyan.gor.98@gmail.com"
         }
     ],
     "keywords": [
